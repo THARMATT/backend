@@ -1,0 +1,23 @@
+{
+  "name": "backendwithhitesh",
+  "version": "1.0.0",
+  "description": "learning backend with Hitesh Sir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THARMATT/backend.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Nigam Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THARMATT/backend/issues"
+  },
+  "homepage": "https://github.com/THARMATT/backend#readme"
+}
